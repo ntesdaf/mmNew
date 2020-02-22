@@ -11,7 +11,6 @@ public class Main {
         int n;
         System.out.println(message);
         String number = scanner.nextLine();
-        String num;
         boolean flag = true;
         while (flag) {
             String[] numberArray = number.split("");
